@@ -1,0 +1,4 @@
+This simple script allows users to search for social media urls/accounts of the a person that we have in mind.
+
+We are using the google search engine to fetch the result and filter them to collect only important information regarding social media.
+The expected result will be that with a single query, we can collect all social media information of a person e.g. twitter, facebook, linkedin, instagram, etc as to further improve ways of communications online.
