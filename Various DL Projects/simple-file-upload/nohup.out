@@ -1,0 +1,595 @@
+/usr/lib/python3.5/importlib/_bootstrap.py:222: RuntimeWarning: compiletime version 3.4 of module 'tensorflow.python.framework.fast_tensor_util' does not match runtime version 3.5
+  return f(*args, **kwds)
+/usr/lib/python3.5/importlib/_bootstrap.py:222: RuntimeWarning: builtins.type size changed, may indicate binary incompatibility. Expected 432, got 412
+  return f(*args, **kwds)
+Using TensorFlow backend.
+[02/Oct/2018 00:58:53] "GET / HTTP/1.1" 200 1766
+[02/Oct/2018 00:58:57] "GET /uploads/simple/ HTTP/1.1" 200 1946
+[02/Oct/2018 00:58:57] "GET /uploads/simple/ HTTP/1.1" 200 1946
+Not Found: /favicon.ico
+[02/Oct/2018 00:58:59] "GET /favicon.ico HTTP/1.1" 404 2505
+[02/Oct/2018 00:59:37] "POST /uploads/simple/ HTTP/1.1" 200 2457
+[02/Oct/2018 00:59:37] "GET /media/Seduce-Your-Ex-Girlfriend.jpg HTTP/1.1" 200 74334
+[02/Oct/2018 01:00:34] "POST /uploads/simple/ HTTP/1.1" 200 2465
+[02/Oct/2018 01:00:34] "GET /media/220px-Heupferd_fg01.jpg HTTP/1.1" 200 9775
+[02/Oct/2018 01:01:21] "GET / HTTP/1.1" 200 1766
+Not Found: /favicon.ico
+[02/Oct/2018 01:01:21] "GET /favicon.ico HTTP/1.1" 404 2505
+[02/Oct/2018 01:02:09] "POST /uploads/simple/ HTTP/1.1" 200 2474
+[02/Oct/2018 01:02:09] "GET /media/1634-sea_urchin-642x361_sea_urchin.jpg HTTP/1.1" 200 53085
+[02/Oct/2018 01:02:53] "POST /uploads/simple/ HTTP/1.1" 200 2450
+[02/Oct/2018 01:02:53] "GET /media/Cat03_Rqo5ABj.jpg HTTP/1.1" 200 156145
+[02/Oct/2018 01:03:12] "POST /uploads/simple/ HTTP/1.1" 200 2466
+[02/Oct/2018 01:03:13] "GET /media/Meng_mQPs8wp.jpeg HTTP/1.1" 200 121871
+[02/Oct/2018 01:04:19] "GET / HTTP/1.1" 200 1766
+[02/Oct/2018 01:05:22] "GET / HTTP/1.1" 200 1766
+Not Found: /favicon.ico
+[02/Oct/2018 01:05:24] "GET /favicon.ico HTTP/1.1" 404 2505
+[02/Oct/2018 01:05:24] "GET /uploads/simple/ HTTP/1.1" 200 1946
+Not Found: /favicon.ico
+[02/Oct/2018 01:05:25] "GET /favicon.ico HTTP/1.1" 404 2505
+[02/Oct/2018 01:05:43] "POST /uploads/simple/ HTTP/1.1" 200 2476
+[02/Oct/2018 01:05:45] "GET /media/15783823-B195-4C31-BEE4-1ED6D88E7C51.jpeg HTTP/1.1" 200 1837328
+[02/Oct/2018 01:06:29] "POST /uploads/simple/ HTTP/1.1" 200 2443
+[02/Oct/2018 01:06:30] "GET /media/image.jpg HTTP/1.1" 200 1195477
+[02/Oct/2018 01:07:21] "GET / HTTP/1.1" 200 1766
+[02/Oct/2018 02:00:13] "GET / HTTP/1.1" 200 1766
+Not Found: /favicon.ico
+[02/Oct/2018 02:00:15] "GET /favicon.ico HTTP/1.1" 404 2505
+[02/Oct/2018 02:00:17] "GET /uploads/simple/ HTTP/1.1" 200 1946
+[02/Oct/2018 02:00:32] "POST /uploads/simple/ HTTP/1.1" 200 2536
+[02/Oct/2018 02:00:32] "GET /media/protect-air-mattress-from-cats-elegant-cat-injury-treatments-of-protect-air-mattress-from-cats.jpg HTTP/1.1" 200 180955
+[02/Oct/2018 02:01:19] "POST /uploads/simple/ HTTP/1.1" 200 2452
+[02/Oct/2018 02:01:19] "GET /media/hotdog_mustard-main.jpg HTTP/1.1" 200 22917
+[02/Oct/2018 02:02:08] "POST /uploads/simple/ HTTP/1.1" 200 2453
+[02/Oct/2018 02:02:08] "GET /media/iphonex-TA.jpg HTTP/1.1" 200 202261
+[02/Oct/2018 02:02:47] "POST /uploads/simple/ HTTP/1.1" 200 2475
+[02/Oct/2018 02:02:47] "GET /media/iStock-609683672-studying.jpg HTTP/1.1" 200 67113
+[02/Oct/2018 02:03:30] "POST /uploads/simple/ HTTP/1.1" 200 2475
+[02/Oct/2018 02:03:30] "GET /media/photoark-lion.ngsversion.1466004832449.png HTTP/1.1" 200 682232
+[02/Oct/2018 02:04:14] "POST /uploads/simple/ HTTP/1.1" 200 2448
+[02/Oct/2018 02:04:15] "GET /media/DSC00903.JPG HTTP/1.1" 200 226039
+[02/Oct/2018 02:05:31] "POST /uploads/simple/ HTTP/1.1" 200 2430
+[02/Oct/2018 02:05:31] "GET /media/baby_0.jpg HTTP/1.1" 200 39945
+[02/Oct/2018 02:11:55] "POST /uploads/simple/ HTTP/1.1" 200 2445
+[02/Oct/2018 02:11:55] "GET /media/DSC00893.JPG HTTP/1.1" 200 372168
+[02/Oct/2018 02:12:29] "POST /uploads/simple/ HTTP/1.1" 200 2445
+[02/Oct/2018 02:12:29] "GET /media/DSC00876.JPG HTTP/1.1" 200 323913
+[02/Oct/2018 02:14:09] "POST /uploads/simple/ HTTP/1.1" 200 2475
+[02/Oct/2018 02:14:09] "GET /media/quick-and-easy-chinese-noodle-soup3-1.jpg HTTP/1.1" 200 88990
+[02/Oct/2018 02:25:55] "GET / HTTP/1.1" 200 1766
+Not Found: /favicon.ico
+[02/Oct/2018 02:25:55] "GET /favicon.ico HTTP/1.1" 404 2505
+[02/Oct/2018 02:26:08] "GET /uploads/simple/ HTTP/1.1" 200 1946
+Not Found: /favicon.ico
+[02/Oct/2018 02:26:10] "GET /favicon.ico HTTP/1.1" 404 2505
+[02/Oct/2018 02:27:16] "GET / HTTP/1.1" 200 1766
+[02/Oct/2018 02:27:18] "GET /uploads/simple/ HTTP/1.1" 200 1946
+[02/Oct/2018 02:27:36] "POST /uploads/simple/ HTTP/1.1" 200 2453
+[02/Oct/2018 02:27:36] "GET /media/imagesJAOC0V5B.jpg HTTP/1.1" 200 11881
+Internal Server Error: /uploads/simple/
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pi/a/simple-file-upload/uploads/core/views.py", line 43, in simple_upload
+    img = image.load_img('/home/pi/a/simple-file-upload'+uploaded_file_url, target_size=(227, 227))
+  File "/home/pi/.local/lib/python3.5/site-packages/keras_preprocessing/image.py", line 473, in load_img
+    img = pil_image.open(path)
+  File "/usr/lib/python3/dist-packages/PIL/Image.py", line 2312, in open
+    fp = builtins.open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/pi/a/simple-file-upload/media/peta%20administrasi%20jakbar.jpg'
+[02/Oct/2018 02:28:01] "POST /uploads/simple/ HTTP/1.1" 500 74151
+[02/Oct/2018 02:29:08] "POST /uploads/simple/ HTTP/1.1" 200 2461
+[02/Oct/2018 02:29:08] "GET /media/imagesJAOC0V5B_iWMhXLe.jpg HTTP/1.1" 200 11881
+[02/Oct/2018 02:29:14] "GET / HTTP/1.1" 200 1766
+[02/Oct/2018 02:29:15] "GET /uploads/simple/ HTTP/1.1" 200 1946
+Internal Server Error: /uploads/simple/
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pi/a/simple-file-upload/uploads/core/views.py", line 43, in simple_upload
+    img = image.load_img('/home/pi/a/simple-file-upload'+uploaded_file_url, target_size=(227, 227))
+  File "/home/pi/.local/lib/python3.5/site-packages/keras_preprocessing/image.py", line 473, in load_img
+    img = pil_image.open(path)
+  File "/usr/lib/python3/dist-packages/PIL/Image.py", line 2312, in open
+    fp = builtins.open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/pi/a/simple-file-upload/media/peta%20administrasi%20jakbar_1R3fWjG.jpg'
+[02/Oct/2018 02:29:30] "POST /uploads/simple/ HTTP/1.1" 500 74225
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 139, in handle
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.5/socket.py", line 576, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[02/Oct/2018 02:30:10] "POST /uploads/simple/ HTTP/1.1" 200 2453
+[02/Oct/2018 02:30:31] "GET / HTTP/1.1" 200 1766
+[02/Oct/2018 02:30:31] "GET /media/IMG_20180114_110332.jpg HTTP/1.1" 200 663552
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 594, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+[02/Oct/2018 02:30:31] "GET /media/IMG_20180114_110332.jpg HTTP/1.1" 500 59
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 138, in run
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 279, in write
+    self._write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 463, in _write
+    result = self.stdout.write(data)
+  File "/usr/lib/python3.5/socket.py", line 594, in write
+    return self._sock.send(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 141, in run
+    self.handle_error()
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 86, in handle_error
+    super().handle_error()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 368, in handle_error
+    self.finish_response()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 180, in finish_response
+    self.write(data)
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 274, in write
+    self.send_headers()
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 331, in send_headers
+    if not self.origin_server or self.client_is_modern():
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 344, in client_is_modern
+    return self.environ['SERVER_PROTOCOL'].upper() != 'HTTP/0.9'
+TypeError: 'NoneType' object is not subscriptable
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/usr/lib/python3.5/socketserver.py", line 625, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.5/socketserver.py", line 354, in finish_request
+    self.RequestHandlerClass(request, client_address, self)
+  File "/usr/lib/python3.5/socketserver.py", line 681, in __init__
+    self.handle()
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/servers/basehttp.py", line 154, in handle
+    handler.run(self.server.get_app())
+  File "/usr/lib/python3.5/wsgiref/handlers.py", line 144, in run
+    self.close()
+  File "/usr/lib/python3.5/wsgiref/simple_server.py", line 36, in close
+    self.status.split(' ',1)[0], self.bytes_sent
+AttributeError: 'NoneType' object has no attribute 'split'
+[02/Oct/2018 02:30:33] "GET /uploads/simple/ HTTP/1.1" 200 1946
+[02/Oct/2018 02:31:06] "POST /uploads/simple/ HTTP/1.1" 200 2465
+[02/Oct/2018 02:31:42] "GET /media/IMG_20180122_163745.jpg HTTP/1.1" 200 1143858
+[02/Oct/2018 02:32:08] "POST /uploads/simple/ HTTP/1.1" 200 2471
+[02/Oct/2018 02:33:37] "GET /media/IMG_20180215_200443.jpg HTTP/1.1" 200 2993039
+[02/Oct/2018 02:38:01] "GET / HTTP/1.1" 200 1766
+Not Found: /favicon.ico
+[02/Oct/2018 02:38:02] "GET /favicon.ico HTTP/1.1" 404 2505
+[02/Oct/2018 02:38:07] "GET /uploads/simple/ HTTP/1.1" 200 1946
+Not Found: /favicon.ico
+[02/Oct/2018 02:38:08] "GET /favicon.ico HTTP/1.1" 404 2505
+[02/Oct/2018 02:38:53] "POST /uploads/simple/ HTTP/1.1" 200 2448
+[02/Oct/2018 02:38:56] "POST /uploads/simple/ HTTP/1.1" 200 2447
+[02/Oct/2018 02:38:56] "GET /media/testpic_fg4PQPy.jpg HTTP/1.1" 200 4557
+Not Found: /favicon.ico
+[02/Oct/2018 02:38:57] "GET /favicon.ico HTTP/1.1" 404 2505
+[02/Oct/2018 02:55:08] "GET / HTTP/1.1" 200 1766
+Not Found: /favicon.ico
+[02/Oct/2018 02:55:11] "GET /favicon.ico HTTP/1.1" 404 2500
+[02/Oct/2018 02:55:12] "GET /uploads/simple/ HTTP/1.1" 200 1946
+Not Found: /favicon.ico
+[02/Oct/2018 02:55:12] "GET /favicon.ico HTTP/1.1" 404 2500
+[02/Oct/2018 02:56:02] "POST /uploads/simple/ HTTP/1.1" 200 2462
+[02/Oct/2018 02:56:03] "GET /media/IMG_20180930_201513.jpg HTTP/1.1" 200 110780
+[02/Oct/2018 02:59:53] "GET / HTTP/1.1" 200 1766
+[02/Oct/2018 02:59:55] "GET /uploads/simple/ HTTP/1.1" 200 1946
+[02/Oct/2018 03:00:14] "POST /uploads/simple/ HTTP/1.1" 200 2458
+[02/Oct/2018 03:00:14] "GET /media/pianowizard-premier-3.jpg HTTP/1.1" 200 38322
+[02/Oct/2018 03:00:53] "GET / HTTP/1.1" 200 1766
+[02/Oct/2018 03:00:55] "GET /uploads/simple/ HTTP/1.1" 200 1946
+[02/Oct/2018 03:01:21] "POST /uploads/simple/ HTTP/1.1" 200 2459
+[02/Oct/2018 03:01:22] "GET /media/IMG_20180921_082626.jpg HTTP/1.1" 200 1118051
+[02/Oct/2018 03:21:55] "GET / HTTP/1.1" 200 1766
+Not Found: /favicon.ico
+[02/Oct/2018 03:21:56] "GET /favicon.ico HTTP/1.1" 404 2505
+[02/Oct/2018 03:21:59] "GET /uploads/simple/ HTTP/1.1" 200 1946
+Not Found: /favicon.ico
+[02/Oct/2018 03:21:59] "GET /favicon.ico HTTP/1.1" 404 2505
+Internal Server Error: /uploads/simple/
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pi/a/simple-file-upload/uploads/core/views.py", line 43, in simple_upload
+    img = image.load_img('/home/pi/a/simple-file-upload'+uploaded_file_url, target_size=(227, 227))
+  File "/home/pi/.local/lib/python3.5/site-packages/keras_preprocessing/image.py", line 473, in load_img
+    img = pil_image.open(path)
+  File "/usr/lib/python3/dist-packages/PIL/Image.py", line 2349, in open
+    % (filename if filename else fp))
+OSError: cannot identify image file '/home/pi/a/simple-file-upload/media/Picture1.svg'
+[02/Oct/2018 03:22:40] "POST /uploads/simple/ HTTP/1.1" 500 74427
+[02/Oct/2018 03:22:43] "GET /uploads/simple/ HTTP/1.1" 200 1946
+[02/Oct/2018 03:23:49] "POST /uploads/simple/ HTTP/1.1" 200 2461
+[02/Oct/2018 03:23:49] "GET /media/127-0-0-1_11065145929ecoupon.jpg HTTP/1.1" 200 559669
+[02/Oct/2018 04:13:45] "GET / HTTP/1.1" 200 1766
+Not Found: /favicon.ico
+[02/Oct/2018 04:13:46] "GET /favicon.ico HTTP/1.1" 404 2500
+[02/Oct/2018 04:13:47] "GET /uploads/simple/ HTTP/1.1" 200 1946
+[02/Oct/2018 04:13:59] "POST /uploads/simple/ HTTP/1.1" 200 2453
+[02/Oct/2018 04:13:59] "GET /media/IMG_20180926_123240.jpg HTTP/1.1" 200 296047
+[02/Oct/2018 05:11:15] "GET / HTTP/1.1" 200 1766
+Not Found: /favicon.ico
+[02/Oct/2018 05:11:17] "GET /favicon.ico HTTP/1.1" 404 2505
+[02/Oct/2018 05:11:30] "GET /uploads/simple/ HTTP/1.1" 200 1946
+[02/Oct/2018 06:52:11] "GET / HTTP/1.1" 200 1766
+Not Found: /favicon.ico
+[02/Oct/2018 06:52:11] "GET /favicon.ico HTTP/1.1" 404 2505
+[02/Oct/2018 06:52:13] "GET /uploads/simple/ HTTP/1.1" 200 1946
+[02/Oct/2018 06:52:20] "POST /uploads/simple/ HTTP/1.1" 200 2482
+[02/Oct/2018 06:52:21] "GET /media/1634-sea_urchin-642x361_sea_urchin_kYR0dsS.jpg HTTP/1.1" 200 53085
+[02/Oct/2018 06:55:44] "GET / HTTP/1.1" 200 1766
+Not Found: /favicon.ico
+[02/Oct/2018 06:55:47] "GET /favicon.ico HTTP/1.1" 404 2500
+Not Found: /favicon.ico
+[02/Oct/2018 06:55:47] "GET /favicon.ico HTTP/1.1" 404 2500
+Not Found: /favicon.ico
+[02/Oct/2018 06:55:47] "GET /favicon.ico HTTP/1.1" 404 2500
+[02/Oct/2018 06:56:14] "GET /uploads/simple/ HTTP/1.1" 200 1946
+[02/Oct/2018 07:01:17] "GET /uploads/simple/ HTTP/1.1" 200 1946
+Internal Server Error: /uploads/simple/
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/utils/datastructures.py", line 77, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'myfile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pi/a/simple-file-upload/uploads/core/views.py", line 37, in simple_upload
+    if request.method == 'POST' and request.FILES['myfile']:
+  File "/home/pi/.local/lib/python3.5/site-packages/django/utils/datastructures.py", line 79, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'myfile'
+[02/Oct/2018 07:01:19] "POST /uploads/simple/ HTTP/1.1" 500 72126
+[02/Oct/2018 07:02:12] "POST /uploads/simple/ HTTP/1.1" 200 2476
+[02/Oct/2018 07:02:13] "GET /media/CT660-Dumptruck-Caterpillar-Wallpapers-HD.jpg HTTP/1.1" 200 518247
+[02/Oct/2018 07:03:42] "POST /uploads/simple/ HTTP/1.1" 200 2448
+[02/Oct/2018 07:03:47] "GET /media/073138829.jpg HTTP/1.1" 200 2038404
+[02/Oct/2018 07:03:58] "GET /uploads/simple/ HTTP/1.1" 200 1946
+[02/Oct/2018 07:47:21] "GET / HTTP/1.1" 200 1766
+[02/Oct/2018 07:47:27] "GET /uploads/simple/ HTTP/1.1" 200 1946
+[02/Oct/2018 07:47:30] "GET / HTTP/1.1" 200 1766
+[02/Oct/2018 07:47:34] "GET /uploads/simple/ HTTP/1.1" 200 1946
+[02/Oct/2018 07:48:13] "POST /uploads/simple/ HTTP/1.1" 200 2454
+[02/Oct/2018 07:48:13] "GET /media/image.jpeg HTTP/1.1" 200 135312
+[02/Oct/2018 07:51:09] "GET / HTTP/1.1" 200 1766
+[02/Oct/2018 07:51:13] "GET /uploads/simple/ HTTP/1.1" 200 1946
+[02/Oct/2018 07:51:38] "POST /uploads/simple/ HTTP/1.1" 200 2452
+[02/Oct/2018 07:51:38] "GET /media/image_h1ON8CY.jpeg HTTP/1.1" 200 809375
+[02/Oct/2018 07:52:50] "POST /uploads/simple/ HTTP/1.1" 200 2450
+[02/Oct/2018 07:52:51] "GET /media/image_N1hGHWU.jpeg HTTP/1.1" 200 71276
+[02/Oct/2018 07:53:23] "POST /uploads/simple/ HTTP/1.1" 200 2458
+[02/Oct/2018 07:53:23] "GET /media/image_AyDmQk7.jpeg HTTP/1.1" 200 71766
+[02/Oct/2018 07:53:35] "GET / HTTP/1.1" 200 1766
+Not Found: /favicon.ico
+[02/Oct/2018 07:53:36] "GET /favicon.ico HTTP/1.1" 404 2505
+[02/Oct/2018 07:53:51] "POST /uploads/simple/ HTTP/1.1" 200 2450
+[02/Oct/2018 07:53:52] "GET /media/image_nS2J8yn.jpeg HTTP/1.1" 200 282185
+[02/Oct/2018 07:54:18] "POST /uploads/simple/ HTTP/1.1" 200 2460
+[02/Oct/2018 07:54:18] "GET /media/image_8UcYTIO.jpeg HTTP/1.1" 200 83193
+[02/Oct/2018 07:55:22] "GET /uploads/simple/ HTTP/1.1" 200 1946
+[02/Oct/2018 07:55:42] "POST /uploads/simple/ HTTP/1.1" 200 2433
+[02/Oct/2018 07:55:42] "GET /media/Test.png HTTP/1.1" 200 372380
+[02/Oct/2018 08:00:37] "GET / HTTP/1.1" 200 1766
+Not Found: /favicon.ico
+[02/Oct/2018 08:00:39] "GET /favicon.ico HTTP/1.1" 404 2505
+[02/Oct/2018 08:00:41] "GET /uploads/simple/ HTTP/1.1" 200 1946
+[02/Oct/2018 08:00:58] "POST /uploads/simple/ HTTP/1.1" 200 2460
+[02/Oct/2018 08:00:59] "GET /media/image_0UTZb9A.jpeg HTTP/1.1" 200 8240
+[02/Oct/2018 08:49:45] "GET / HTTP/1.1" 200 1766
+Not Found: /favicon.ico
+[02/Oct/2018 08:49:46] "GET /favicon.ico HTTP/1.1" 404 2505
+[02/Oct/2018 08:49:49] "GET /uploads/simple/ HTTP/1.1" 200 1946
+Internal Server Error: /uploads/simple/
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pi/a/simple-file-upload/uploads/core/views.py", line 43, in simple_upload
+    img = image.load_img('/home/pi/a/simple-file-upload'+uploaded_file_url, target_size=(227, 227))
+  File "/home/pi/.local/lib/python3.5/site-packages/keras_preprocessing/image.py", line 473, in load_img
+    img = pil_image.open(path)
+  File "/usr/lib/python3/dist-packages/PIL/Image.py", line 2312, in open
+    fp = builtins.open(filename, "rb")
+FileNotFoundError: [Errno 2] No such file or directory: '/home/pi/a/simple-file-upload/media/2018-10-02%2015.50.25.jpg'
+[02/Oct/2018 08:50:51] "POST /uploads/simple/ HTTP/1.1" 500 73911
+[02/Oct/2018 08:53:25] "GET /uploads/simple/ HTTP/1.1" 200 1946
+[02/Oct/2018 08:53:49] "POST /uploads/simple/ HTTP/1.1" 200 2442
+[02/Oct/2018 08:53:54] "GET /media/testMouse.jpg HTTP/1.1" 200 1475592
+[03/Oct/2018 06:07:17] "GET /uploads/simple/ HTTP/1.1" 200 1946
+Not Found: /favicon.ico
+[03/Oct/2018 06:07:19] "GET /favicon.ico HTTP/1.1" 404 2505
+[04/Oct/2018 03:19:13] "GET / HTTP/1.1" 200 1766
+Not Found: /favicon.ico
+[04/Oct/2018 03:19:14] "GET /favicon.ico HTTP/1.1" 404 2505
+[04/Oct/2018 03:19:40] "GET / HTTP/1.1" 200 1766
+[04/Oct/2018 03:50:49] "GET / HTTP/1.1" 200 1766
+[04/Oct/2018 03:51:07] "GET /uploads/simple/ HTTP/1.1" 200 1946
+Not Found: /favicon.ico
+[04/Oct/2018 03:51:08] "GET /favicon.ico HTTP/1.1" 404 2505
+Not Found: /favicon.ico
+[04/Oct/2018 03:51:27] "GET /favicon.ico HTTP/1.1" 404 2505
+Internal Server Error: /uploads/simple/
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/utils/datastructures.py", line 77, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'myfile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pi/a/simple-file-upload/uploads/core/views.py", line 37, in simple_upload
+    if request.method == 'POST' and request.FILES['myfile']:
+  File "/home/pi/.local/lib/python3.5/site-packages/django/utils/datastructures.py", line 79, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'myfile'
+[04/Oct/2018 03:53:37] "POST /uploads/simple/ HTTP/1.1" 500 72581
+Internal Server Error: /uploads/simple/
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/utils/datastructures.py", line 77, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'myfile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pi/a/simple-file-upload/uploads/core/views.py", line 37, in simple_upload
+    if request.method == 'POST' and request.FILES['myfile']:
+  File "/home/pi/.local/lib/python3.5/site-packages/django/utils/datastructures.py", line 79, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'myfile'
+[04/Oct/2018 03:54:10] "POST /uploads/simple/ HTTP/1.1" 500 72581
+Internal Server Error: /uploads/simple/
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/utils/datastructures.py", line 77, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'myfile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pi/a/simple-file-upload/uploads/core/views.py", line 37, in simple_upload
+    if request.method == 'POST' and request.FILES['myfile']:
+  File "/home/pi/.local/lib/python3.5/site-packages/django/utils/datastructures.py", line 79, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'myfile'
+[04/Oct/2018 03:54:37] "POST /uploads/simple/ HTTP/1.1" 500 72581
+Internal Server Error: /uploads/simple/
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/request.py", line 342, in read
+    return self._stream.read(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/wsgi.py", line 42, in read
+    result = self.buffer + self._read_limited(size - len(self.buffer))
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/wsgi.py", line 30, in _read_limited
+    result = self.stream.read(size)
+  File "/usr/lib/python3.5/socket.py", line 576, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pi/a/simple-file-upload/uploads/core/views.py", line 37, in simple_upload
+    if request.method == 'POST' and request.FILES['myfile']:
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/wsgi.py", line 125, in FILES
+    self._load_post_and_files()
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/request.py", line 310, in _load_post_and_files
+    self._post, self._files = self.parse_file_upload(self.META, data)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/request.py", line 269, in parse_file_upload
+    return parser.parse()
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/multipartparser.py", line 150, in parse
+    for item_type, meta_data, field_stream in Parser(stream, self._boundary):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/multipartparser.py", line 639, in __iter__
+    for sub_stream in boundarystream:
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/multipartparser.py", line 461, in __next__
+    return LazyStream(BoundaryIter(self._stream, self._boundary))
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/multipartparser.py", line 488, in __init__
+    unused_char = self._stream.read(1)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/multipartparser.py", line 359, in read
+    out = b''.join(parts())
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/multipartparser.py", line 350, in parts
+    chunk = next(self)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/multipartparser.py", line 373, in __next__
+    output = next(self._producer)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/multipartparser.py", line 436, in __next__
+    data = self.flo.read(self.chunk_size)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/request.py", line 344, in read
+    raise UnreadablePostError(*e.args) from e
+django.http.request.UnreadablePostError: [Errno 104] Connection reset by peer
+[04/Oct/2018 03:55:09] "POST /uploads/simple/ HTTP/1.1" 500 131418
+Internal Server Error: /uploads/simple/
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/utils/datastructures.py", line 77, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'myfile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pi/a/simple-file-upload/uploads/core/views.py", line 37, in simple_upload
+    if request.method == 'POST' and request.FILES['myfile']:
+  File "/home/pi/.local/lib/python3.5/site-packages/django/utils/datastructures.py", line 79, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'myfile'
+[04/Oct/2018 03:56:05] "POST /uploads/simple/ HTTP/1.1" 500 72701
+Internal Server Error: /uploads/simple/
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/utils/datastructures.py", line 77, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'myfile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pi/a/simple-file-upload/uploads/core/views.py", line 37, in simple_upload
+    if request.method == 'POST' and request.FILES['myfile']:
+  File "/home/pi/.local/lib/python3.5/site-packages/django/utils/datastructures.py", line 79, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'myfile'
+[04/Oct/2018 03:56:40] "POST /uploads/simple/ HTTP/1.1" 500 72702
+Internal Server Error: /uploads/simple/
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/utils/datastructures.py", line 77, in __getitem__
+    list_ = super().__getitem__(key)
+KeyError: 'myfile'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pi/a/simple-file-upload/uploads/core/views.py", line 37, in simple_upload
+    if request.method == 'POST' and request.FILES['myfile']:
+  File "/home/pi/.local/lib/python3.5/site-packages/django/utils/datastructures.py", line 79, in __getitem__
+    raise MultiValueDictKeyError(key)
+django.utils.datastructures.MultiValueDictKeyError: 'myfile'
+[04/Oct/2018 03:58:03] "POST /uploads/simple/ HTTP/1.1" 500 72582
+Internal Server Error: /uploads/simple/
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/request.py", line 342, in read
+    return self._stream.read(*args, **kwargs)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/wsgi.py", line 42, in read
+    result = self.buffer + self._read_limited(size - len(self.buffer))
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/wsgi.py", line 30, in _read_limited
+    result = self.stream.read(size)
+  File "/usr/lib/python3.5/socket.py", line 576, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/exception.py", line 34, in inner
+    response = get_response(request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 126, in _get_response
+    response = self.process_exception_by_middleware(e, request)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/base.py", line 124, in _get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "/home/pi/a/simple-file-upload/uploads/core/views.py", line 37, in simple_upload
+    if request.method == 'POST' and request.FILES['myfile']:
+  File "/home/pi/.local/lib/python3.5/site-packages/django/core/handlers/wsgi.py", line 125, in FILES
+    self._load_post_and_files()
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/request.py", line 310, in _load_post_and_files
+    self._post, self._files = self.parse_file_upload(self.META, data)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/request.py", line 269, in parse_file_upload
+    return parser.parse()
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/multipartparser.py", line 150, in parse
+    for item_type, meta_data, field_stream in Parser(stream, self._boundary):
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/multipartparser.py", line 639, in __iter__
+    for sub_stream in boundarystream:
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/multipartparser.py", line 461, in __next__
+    return LazyStream(BoundaryIter(self._stream, self._boundary))
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/multipartparser.py", line 488, in __init__
+    unused_char = self._stream.read(1)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/multipartparser.py", line 359, in read
+    out = b''.join(parts())
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/multipartparser.py", line 350, in parts
+    chunk = next(self)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/multipartparser.py", line 373, in __next__
+    output = next(self._producer)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/multipartparser.py", line 436, in __next__
+    data = self.flo.read(self.chunk_size)
+  File "/home/pi/.local/lib/python3.5/site-packages/django/http/request.py", line 344, in read
+    raise UnreadablePostError(*e.args) from e
+django.http.request.UnreadablePostError: [Errno 104] Connection reset by peer
+[04/Oct/2018 03:58:15] "POST /uploads/simple/ HTTP/1.1" 500 131418
+[04/Oct/2018 04:03:46] "GET / HTTP/1.1" 200 1766
+[04/Oct/2018 04:03:49] "GET /uploads/simple/ HTTP/1.1" 200 1946
+[04/Oct/2018 04:03:59] "POST /uploads/simple/ HTTP/1.1" 200 2434
+[04/Oct/2018 04:04:00] "GET /media/2.jpg HTTP/1.1" 200 2511501
+[04/Oct/2018 04:04:01] "GET / HTTP/1.1" 200 1766
+Not Found: /favicon.ico
+[04/Oct/2018 04:04:03] "GET /favicon.ico HTTP/1.1" 404 2505
+[04/Oct/2018 04:04:14] "GET /uploads/simple/ HTTP/1.1" 200 1946
+Not Found: /favicon.ico
+[04/Oct/2018 04:04:18] "GET /favicon.ico HTTP/1.1" 404 2505
+[04/Oct/2018 04:06:00] "POST /uploads/simple/ HTTP/1.1" 200 2450
+[04/Oct/2018 04:06:12] "GET /media/4716173.jpg HTTP/1.1" 200 1854205
+Not Found: /favicon.ico
+[04/Oct/2018 04:07:38] "GET /favicon.ico HTTP/1.1" 404 2505
+[04/Oct/2018 04:12:03] "POST /uploads/simple/ HTTP/1.1" 200 2445
+[04/Oct/2018 04:12:31] "GET /media/9022871.jpg HTTP/1.1" 200 1692971
